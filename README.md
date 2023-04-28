@@ -17,6 +17,7 @@
  - Google Maps SDK
  - Shared Preference
  - ExoPlayer, Glide
+ - Firebase
 
 Сейчас изучаю:
 - Jetpack Compose по курсу от Google
