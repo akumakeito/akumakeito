@@ -6,6 +6,7 @@
 2. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
 3. [Социальная сеть "NMedia"](https://github.com/madness4love/nmedia) - реализованы посты с количестовм лайков и возможностью добавления изображений
 4. [Социальная сеть](https://github.com/madness4love/social-network) - посты с комментариями
+5. [Custom View](https://github.com/madness4love/netotologyView/tree/master) - кастомный UI компонент
 
 В рамках учебных проектов я работала с:
  - Kotlin
