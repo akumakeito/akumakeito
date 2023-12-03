@@ -2,11 +2,9 @@
 
 Я - андроид разработчик, училась в Нетологии. Это мои учебные проекты:
 
-1. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возожностью добавления изображений, видео и аудио
+1. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
 2. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
 3. [Социальная сеть "NMedia"](https://github.com/madness4love/nmedia) - реализованы посты с количестовм лайков и возможностью добавления изображений
-4. [Push sender](https://github.com/madness4love/push-sender) - работа с уведомлениями посредством Firebase Notification
-5. [Custom View](https://github.com/madness4love/netotologyView/tree/master) - кастомный UI компонент
 
 В рамках учебных проектов я работала с:
  - Kotlin
