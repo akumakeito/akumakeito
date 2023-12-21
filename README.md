@@ -18,9 +18,6 @@
  - ExoPlayer, Glide
  - Firebase
 
-Сейчас изучаю:
-- Jetpack Compose по курсу от Google
-
 
 ### Мои контакты 
 [![linkedin](https://user-images.githubusercontent.com/48094567/234381218-e1a83220-c512-4fdb-acad-95a4757bb9a1.png)](https://www.linkedin.com/in/ekaterina-zolotova-android-dev/) [![355977](https://user-images.githubusercontent.com/48094567/234381294-df200089-66e6-4583-a184-9790ad49380e.png)](https://t.me/akumakeito)
