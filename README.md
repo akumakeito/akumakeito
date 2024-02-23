@@ -1,4 +1,5 @@
-<h1> Привет! Меня зовут Катя
+<h1> Привет:wave:Меня зовут Катя
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,19 +9,20 @@
   </a>
  </div>
 </h1>
-
-### :woman_technologist: Обо мне:
 ---
+### :woman_technologist: Обо мне:
 Я занимаюсь Android-разработкой более 3 лет <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+:moneybag: Изучаю Jetpack Compose и разрабатываю свое приложение по конвертации валют на нем
+:iphone: работаю над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), руковожу командой из 3 Android-разработчиков
+--- 
+### :hammer_and_wrench: Мой стэк:
+ <img src="https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin Badge"/>
 
-
-
- 
 Мои проекты:
-
-1. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
-2. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
+1. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
+2. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
 3. [Социальная сеть "NMedia"](https://github.com/madness4love/nmedia) - реализованы посты с количестовм лайков и возможностью добавления изображений
+4. 
 
 В рамках учебных проектов я работала с:
  - Kotlin
