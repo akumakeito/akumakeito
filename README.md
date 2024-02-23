@@ -7,9 +7,7 @@
   <a href="https://t.me/akumakeito">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
-  <a href="kate.goldman.mobile.dev@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335" alt="gmail Badge"/>
-  </a>
+
  </div>
 </h1>
 
@@ -43,10 +41,14 @@
 3. [Социальная сеть "NMedia"](https://github.com/madness4love/nmedia) - реализованы посты с количестовм лайков и возможностью добавления изображений
 4. [Тестовое задание Effective Mobile](https://github.com/akumakeito/effective_mobile_test) - онлайн магазин косметики
 
+---
+
 ### :fire: Мои статистики:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akumakeito&theme=ocean-gradient&locale=ru)](https://git.io/streak-stats)
 
-В рамках учебных проектов я работала с:
+---
+
+Я работаю с:
  - Kotlin
  - MVVM
  - Coroutine, Flow, LiveData
@@ -57,7 +59,19 @@
  - Shared Preference
  - ExoPlayer, Glide
  - Firebase
+ - Жизненный цикл Activity, Fragment
+ - Android SDK
+ - JetPack Navigation
+ - REST API
+ - ViewModel
+ - ООП, SOLID, DRY, KISS
+ - Jetpack Compose
+ - Gitlab/Github
+ - Material design guidelines
+ - Google Maps Api
+ - Figma, Jira
 
+---
 
 ### Мои контакты 
-[![linkedin](https://user-images.githubusercontent.com/48094567/234381218-e1a83220-c512-4fdb-acad-95a4757bb9a1.png)](https://www.linkedin.com/in/ekaterina-zolotova-android-dev/) [![355977](https://user-images.githubusercontent.com/48094567/234381294-df200089-66e6-4583-a184-9790ad49380e.png)](https://t.me/akumakeito)
+[![linkedin](https://user-images.githubusercontent.com/48094567/234381218-e1a83220-c512-4fdb-acad-95a4757bb9a1.png)](https://www.linkedin.com/in/kate-goldman-mobile-dev/) [![355977](https://user-images.githubusercontent.com/48094567/234381294-df200089-66e6-4583-a184-9790ad49380e.png)](https://t.me/akumakeito)
