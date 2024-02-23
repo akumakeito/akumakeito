@@ -19,6 +19,8 @@
 
 ### :hammer_and_wrench: Мой стэк:
  <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin Badge"/>
+<img src="https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white" alt="android Badge"/>
+
 
 Мои проекты:
 1. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
