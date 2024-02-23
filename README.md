@@ -7,6 +7,9 @@
   <a href="https://t.me/akumakeito">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
+  <a href="kate.goldman.mobile.dev@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335" alt="gmail Badge"/>
+  </a>
  </div>
 </h1>
 
