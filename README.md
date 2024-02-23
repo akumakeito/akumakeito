@@ -18,9 +18,19 @@
 --- 
 
 ### :hammer_and_wrench: Мой стэк:
-
-  <img src="https://img.shields.io/badge/:badgeContent?logo=android&logoColor=white&label=android&labelColor=%2334eb9b" alt="android Badge"/>
-
+<div>
+   <img src="https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&color=%2334A853" alt="android Badge"/>
+   <img src="https://img.shields.io/badge/kotlin-purp?style=for-the-badge&logo=kotlin&logoColor=white&color=%237F52FF" alt="kotlin Badge"/>
+   <img src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black&color=%23FFCA28" alt="firebase Badge"/>
+   <img src="https://img.shields.io/badge/glide-yellow?style=for-the-badge&logo=glide&logoColor=white&color=%2318BED4" alt="glide Badge"/>
+   <img src="https://img.shields.io/badge/googlemaps-yellow?style=for-the-badge&logo=googlemaps&logoColor=white&color=%234285F4" alt="google maps Badge"/>
+   <img src="https://img.shields.io/badge/jetpackcompose-yellow?style=for-the-badge&logo=jetpackcompose&logoColor=white&color=%234285F4" alt="jetpack compose Badge"/>
+   <img src="https://img.shields.io/badge/androidstudio-yellow?style=for-the-badge&logo=androidstudio&logoColor=white&color=%233DDC84" alt="android studio Badge"/>
+   <img src="https://img.shields.io/badge/json-yellow?style=for-the-badge&logo=json&logoColor=white&color=%23000000" alt="json Badge"/>
+   <img src="https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26" alt="gitlab Badge"/>
+    <img src="https://img.shields.io/badge/githubactions-yellow?style=for-the-badge&logo=githubactions&logoColor=white&color=%232088FF" alt="github actions Badge"/>
+</div>
+ 
 
 
 Мои проекты:
