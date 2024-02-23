@@ -15,6 +15,7 @@
 Я занимаюсь Android-разработкой более 3 лет <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :moneybag: Изучаю Jetpack Compose и разрабатываю свое приложение по конвертации валют на нем
 - :iphone: Работаю над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), руковожу командой из 3 Android-разработчиков
+ 
   
 --- 
 
@@ -48,7 +49,7 @@
 
 ---
 
-Я работаю с:
+## Я работаю с:
  - Kotlin
  - MVVM
  - Coroutine, Flow, LiveData
