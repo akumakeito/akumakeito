@@ -1,5 +1,5 @@
-<h1> Привет :wave: Меня зовут Катя
-<br>
+<h1> Привет :wave:  меня зовут Катя<br />
+<br />
 <div id="badges">
   <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,7 +29,10 @@
    <img src="https://img.shields.io/badge/json-yellow?style=for-the-badge&logo=json&logoColor=white&color=%23000000" alt="json Badge"/>
    <img src="https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26" alt="gitlab Badge"/>
     <img src="https://img.shields.io/badge/githubactions-yellow?style=for-the-badge&logo=githubactions&logoColor=white&color=%232088FF" alt="github actions Badge"/>
+   <img src="https://img.shields.io/badge/docker-yellow?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED" alt="docker Badge"/>
 </div>
+
+ ---
  
 
 
