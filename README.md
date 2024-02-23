@@ -1,10 +1,10 @@
-<h1>Добрый день! Я - Катя, занимаюсь Android разработкой более 3 лет
+<h1> Привет! Я - Катя, Android разработчица
 <div id="badges">
   <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/akumakeito">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
  </div>
 </h1>
