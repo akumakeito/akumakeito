@@ -1,4 +1,4 @@
-<h1> Привет:wave:Меня зовут Катя
+<h1> Привет :wave: Меня зовут Катя
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
@@ -9,14 +9,16 @@
   </a>
  </div>
 </h1>
----
+
 ### :woman_technologist: Обо мне:
 Я занимаюсь Android-разработкой более 3 лет <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-:moneybag: Изучаю Jetpack Compose и разрабатываю свое приложение по конвертации валют на нем
-:iphone: работаю над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), руковожу командой из 3 Android-разработчиков
+- :moneybag: Изучаю Jetpack Compose и разрабатываю свое приложение по конвертации валют на нем
+- :iphone: Работаю над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), руковожу командой из 3 Android-разработчиков
+  
 --- 
+
 ### :hammer_and_wrench: Мой стэк:
- <img src="https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin Badge"/>
+ <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin Badge"/>
 
 Мои проекты:
 1. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
