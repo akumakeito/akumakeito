@@ -1,6 +1,11 @@
-## Добрый день! 
+## Добрый день! Я - Катя, занимаюсь Android разработкой более 3 лет
 
-Я - андроид разработчик, училась в Нетологии. Это мои учебные проекты:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
+Мои проекты:
 
 1. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
 2. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
