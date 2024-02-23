@@ -18,8 +18,7 @@
 --- 
 
 ### :hammer_and_wrench: Мой стэк:
-<div id="tech">
- <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin Badge"/>
+
 ![Static Badge](https://img.shields.io/badge/android?logo=android&logoColor=white&label=android&labelColor=%2334eb9b)
 
 
