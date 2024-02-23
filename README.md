@@ -1,4 +1,4 @@
-<h1> Привет! Я - Катя, Android разработчица
+<h1> Привет! Я - Катя, Android-разработчица
 <div id="badges">
   <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,6 +8,12 @@
   </a>
  </div>
 </h1>
+
+### :woman_technologist: Обо мне:
+
+---
+
+
 
  
 Мои проекты:
