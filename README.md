@@ -36,11 +36,13 @@
  
 
 
-Мои проекты:
+### :briefcase: Мои проекты:
 1. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
 2. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
 3. [Социальная сеть "NMedia"](https://github.com/madness4love/nmedia) - реализованы посты с количестовм лайков и возможностью добавления изображений
-4. 
+
+### :fire: Мои статистики:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akumakeito&theme=ocean-gradient&locale=ru)](https://git.io/streak-stats)
 
 В рамках учебных проектов я работала с:
  - Kotlin
