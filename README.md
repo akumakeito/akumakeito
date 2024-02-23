@@ -19,7 +19,8 @@
 
 ### :hammer_and_wrench: Мой стэк:
 
-![Static Badge](https://img.shields.io/badge/android?logo=android&logoColor=white&label=android&labelColor=%2334eb9b)
+  <img src="https://img.shields.io/badge/:badgeContent?logo=android&logoColor=white&label=android&labelColor=%2334eb9b" alt="android Badge"/>
+
 
 
 Мои проекты:
