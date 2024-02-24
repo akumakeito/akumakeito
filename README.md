@@ -75,4 +75,11 @@
 ---
 
 ### Мои контакты 
-[![linkedin](https://user-images.githubusercontent.com/48094567/234381218-e1a83220-c512-4fdb-acad-95a4757bb9a1.png)](https://www.linkedin.com/in/kate-goldman-mobile-dev/) [![355977](https://user-images.githubusercontent.com/48094567/234381294-df200089-66e6-4583-a184-9790ad49380e.png)](https://t.me/akumakeito)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/akumakeito">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+ </div>
