@@ -1,4 +1,4 @@
-<h1> Привет :wave:  меня зовут Катя<br />
+<h1> Привет :wave:  Я - Катя, Android-разработчик<br />
 <br />
 <div id="badges">
   <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
@@ -14,7 +14,7 @@
 ### :woman_technologist: Обо мне:
 Я занимаюсь Android-разработкой более 3 лет <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :moneybag: Изучаю Jetpack Compose и разрабатываю свое приложение по конвертации валют на нем
-- :iphone: Работаю над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), руковожу командой из 3 Android-разработчиков
+- :iphone: Работаю над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), руковожу командой из 3 Android-разработчиков (Gitlab)
  
   
 --- 
