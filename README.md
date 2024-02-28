@@ -37,7 +37,7 @@
  ---
  
 ### :briefcase: Мои проекты:
-1. [Тестовое задание Effective Mobile](https://github.com/akumakeito/effective_mobile_test) - онлайн магазин косметики
+1. [Тестовое задание Effective Mobile](https://github.com/akumakeito/effective_mobile_test) (в работе) - онлайн магазин косметики
 2. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
 3. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
 4. [Социальная сеть "NMedia"](https://github.com/madness4love/nmedia) - реализованы посты с количестовм лайков и возможностью добавления изображений
