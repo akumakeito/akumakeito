@@ -41,7 +41,6 @@
 2. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
 3. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
 4. [Социальная сеть "NMedia"](https://github.com/madness4love/nmedia) - реализованы посты с количестовм лайков и возможностью добавления изображений
-5. [Currention](https://github.com/akumakeito/currention/tree/master) (в работе) - конвертер валют на Jetpack Compose
 
 ---
 
