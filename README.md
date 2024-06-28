@@ -40,8 +40,9 @@
 1. [Онлайн магазин косметики](https://github.com/akumakeito/effective_mobile_test)
 2. [Currention](https://github.com/akumakeito/currention) - приложение по конвертации фиатных и криптовалют c помощью Jetpack Compose (в работе)
 3. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
-4. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
-5. [СustomView Аналоговые часы](https://github.com/akumakeito/clock_custom_view) - кастомный элемент Аналоговые часы, который отображает реальное время
+4. [TicketSales](https://github.com/akumakeito/em_ticket_sale) - многомодульный проект, приложение для поиска авиабилетов
+5. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
+6. [СustomView Аналоговые часы](https://github.com/akumakeito/clock_custom_view) - кастомный элемент Аналоговые часы, который отображает реальное время
 
 ---
 
