@@ -13,7 +13,7 @@
 
 ### :woman_technologist: Обо мне:
 Я занимаюсь Android-разработкой более 2 лет и активно развиваюсь в этой сфере 
-- :moneybag: Изучаю Jetpack Compose и разрабатываю свое приложение по конвертации валют на нем
+- :moneybag:Разрабатываю свое приложение по конвертации валют, используя Jetpack Compose
 - :iphone: Работаю над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), руковожу командой из 4 Android-разработчиков (Gitlab)
  
   
