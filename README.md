@@ -51,25 +51,24 @@
 
 ## Я работаю с:
  - Kotlin
- - MVVM
+ - MVVM, Clean Architecture, Многомодульность
  - Coroutine, Flow, LiveData
- - WorkManager
- - OkHttp/Retrofit, Room
+ - Jetpack Compose
+ - REST API (OkHttp/Retrofit)
+ - Room
  - Dagger Hilt
+ - Dagger 2
+ - Auth0
  - Google Maps SDK
- - Shared Preference
+ - Shared Preference, DataStore
  - ExoPlayer, Glide
  - Firebase
- - Жизненный цикл Activity, Fragment
  - Android SDK
  - JetPack Navigation
- - REST API
- - ViewModel
+ - WorkManager
  - ООП, SOLID, DRY, KISS
- - Jetpack Compose
- - Gitlab/Github
  - Material design guidelines
- - Google Maps Api
+ - Gitlab/Github
  - Figma, Jira
 
 ---
