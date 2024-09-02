@@ -14,7 +14,7 @@
 ### :woman_technologist: Обо мне:
 Я занимаюсь Android-разработкой более 2 лет и активно развиваюсь в этой сфере 
 - :moneybag: работаю над FinTech приложением (Jetpack Compose)
-- :iphone: Работала над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), была координатором команды из 4 Android-разработчиков
+- :iphone: Работала над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), была координатором команды из 4 Android-разработчиков, загрузила тестовый релиз на Play Market
  
   
 --- 
