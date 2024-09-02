@@ -37,7 +37,7 @@
  ---
  
 ### :briefcase: Мои проекты:
-1. Модуль Онбординга в приложении - в существующем POS приложении необходимо было создать модуль Онбординга (Jetpack Compose)
+1. Модуль Онбординга в приложении - в существующем POS приложении необходимо было создать модуль Онбординга (верстка - Jetpack Compose, запросы - GraphQL)
 2. [Онлайн-магазин](https://github.com/akumakeito/effective_mobile_test) - приложение для онлайн-магазина косметики
 3. [TicketSales](https://github.com/akumakeito/em_ticket_sale) - приложение для поиска авиабилетов
 4. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
@@ -55,6 +55,7 @@
  - Coroutine, Flow, LiveData
  - Jetpack Compose
  - REST API (OkHttp/Retrofit)
+ - GraphQL
  - Room
  - Dagger Hilt, Dagger 2
  - Auth0
