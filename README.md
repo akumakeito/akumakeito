@@ -1,7 +1,7 @@
 <h1> Привет :wave:  Я - Катя, Android-разработчик<br />
 <br />
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
+  <a href="https://www.linkedin.com/in/kate-zolotova-mobile-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/akumakeito">
