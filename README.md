@@ -13,8 +13,8 @@
 
 ### :woman_technologist: Обо мне:
 Я занимаюсь Android-разработкой более 2 лет и активно развиваюсь в этой сфере 
-- :moneybag:Разрабатываю свое приложение по конвертации валют, используя Jetpack Compose
-- :iphone: Работаю над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), руковожу командой из 4 Android-разработчиков (Gitlab)
+- :moneybag: работаю над FinTech приложением (Jetpack Compose)
+- :iphone: Работала над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), была координатором команды из 4 Android-разработчиков
  
   
 --- 
@@ -37,12 +37,10 @@
  ---
  
 ### :briefcase: Мои проекты:
-1. [Онлайн магазин косметики](https://github.com/akumakeito/effective_mobile_test)
-2. [Currention](https://github.com/akumakeito/currention) - приложение по конвертации фиатных и криптовалют c помощью Jetpack Compose (в работе)
-3. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
-4. [TicketSales](https://github.com/akumakeito/em_ticket_sale) - многомодульный проект, приложение для поиска авиабилетов
-5. [Приложение для путешественников](https://github.com/madness4love/MapMarker) - отмечать точки, которые хотелось бы посетить
-6. [СustomView Аналоговые часы](https://github.com/akumakeito/clock_custom_view) - кастомный элемент Аналоговые часы, который отображает реальное время
+1. Модуль Онбординга в приложении - в существующем POS приложении необходимо было создать модуль Онбординга (Jetpack Compose)
+2. [Онлайн-магазин](https://github.com/akumakeito/effective_mobile_test) - приложение для онлайн-магазина косметики
+3. [TicketSales](https://github.com/akumakeito/em_ticket_sale) - приложение для поиска авиабилетов
+4. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
 
 ---
 
@@ -51,15 +49,14 @@
 
 ---
 
-## Я работаю с:
+## В проектах я работала с:
  - Kotlin
  - MVVM, Clean Architecture, Многомодульность
  - Coroutine, Flow, LiveData
  - Jetpack Compose
  - REST API (OkHttp/Retrofit)
  - Room
- - Dagger Hilt
- - Dagger 2
+ - Dagger Hilt, Dagger 2
  - Auth0
  - Google Maps SDK
  - Shared Preference, DataStore
@@ -67,7 +64,6 @@
  - Firebase
  - Android SDK
  - JetPack Navigation
- - WorkManager
  - ООП, SOLID, DRY, KISS
  - Material design guidelines
  - Gitlab/Github
@@ -77,7 +73,7 @@
 
 ### Мои контакты 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kate-goldman-mobile-dev/">
+  <a href="https://www.linkedin.com/in/kate-zolotova-mobile-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/akumakeito">
