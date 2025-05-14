@@ -13,7 +13,7 @@
 
 ### :woman_technologist: Обо мне:
 Я занимаюсь Android-разработкой более 2 лет и активно развиваюсь в этой сфере 
-- :moneybag: работаю над FinTech приложением (Jetpack Compose)
+- :moneybag: работала в команде, разрабатывающей [криптовалютный кошелек](https://play.google.com/store/apps/details?id=jp.co.soramitsu.sora&pli=1), в компании [SORAMITSU](https://soramitsu.co.jp/)
 - :iphone: Работала над приложением по ведению бюджета в [Guild of Developers](https://guild-of-developers.ru/aboutGuild), была координатором команды из 4 Android-разработчиков, загрузила тестовый релиз на Play Market
  
   
@@ -37,16 +37,17 @@
  ---
  
 ### :briefcase: Мои проекты:
-1. [Модуль Онбординга в приложении](https://github.com/akumakeito/onboarding-pos-app) - в существующем POS приложении необходимо было создать модуль Онбординга (верстка - Jetpack Compose, запросы - GraphQL)
-2. [Онлайн-магазин](https://github.com/akumakeito/effective_mobile_test) - приложение для онлайн-магазина косметики
-3. [TicketSales](https://github.com/akumakeito/em_ticket_sale) - приложение для поиска авиабилетов
-4. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
+1. Фиксила баги и контрибьютила в open-source библиотеки
+2. [Модуль Онбординга в приложении](https://github.com/akumakeito/onboarding-pos-app) - в существующем POS приложении необходимо было создать модуль Онбординга (верстка - Jetpack Compose, запросы - GraphQL)
+3. [Онлайн-магазин](https://github.com/akumakeito/effective_mobile_test) - приложение для онлайн-магазина косметики
+4. [TicketSales](https://github.com/akumakeito/em_ticket_sale) - приложение для поиска авиабилетов
+5. [Дипломный проект](https://github.com/madness4love/NeWorkApp) - социальная сеть "NeWork", в которой реализованы посты и мероприятия с возможностью добавления изображений, видео и аудио
 
 ---
 
 ### :fire: Мои статистики:
 [![GitHub Streak](https://streak-stats.demolab.com?user=akumakeito&theme=ocean-gradient&locale=ru)](https://git.io/streak-stats)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/madness4love)
 ---
 
 ## В проектах я работала с:
