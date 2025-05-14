@@ -46,7 +46,8 @@
 ---
 
 ### :fire: Мои статистики:
-[![GitHub Streak](https://streak-stats.demolab.com?user=akumakeito&theme=ocean-gradient&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akumakeito&theme=maroongold)](https://git.io/streak-stats)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/akumakeito)
 ---
 
